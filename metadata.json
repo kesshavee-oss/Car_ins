@@ -1,0 +1,6 @@
+{
+  "name": "AURA LUXURY",
+  "description": "An ultra-luxury futuristic automotive and insurance ecosystem featuring hypercar collections, virtual showrooms, and elite concierge services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
